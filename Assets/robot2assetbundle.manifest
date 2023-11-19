@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2960947813
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74c429094c345f0992d8869033407d9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e9a671eb0d16285b8aa830776d02638
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8573874c0bacd484788dc6175d8eea41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d91bf5e9eaad2f48b4ff74e34b92306, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51248dd99991d3f49aab579489ab3206, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c73b3823a640ef46b0f9991b18983fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efe18cebebf44014dbfcf3719bd1db32, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Robot2.prefab
+Dependencies: []

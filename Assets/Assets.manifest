@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3513880084
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: robot1assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: robot2assetbundle
+      Dependencies: {}
